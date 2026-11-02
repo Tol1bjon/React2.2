@@ -1,0 +1,1 @@
+export const API = 'https://to-dos-api.softclub.tj/api/to-dos'
